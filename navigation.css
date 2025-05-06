@@ -1,0 +1,33 @@
+body{
+    background-color: blanchedalmond;
+}
+ul{
+    display: flex;
+}
+li{
+    list-style-type: none;
+}
+a{
+    text-decoration: none;
+    padding: 20PX;
+    width: 200px;
+   
+}
+nav{
+    background-color: black;
+   padding: 10px;
+   color: white;
+}
+.mm{
+    float: right;
+    margin-top: -52px;
+}
+.nn{
+    margin:  270px auto;
+    margin-left: -600px;
+}
+button{
+    justify-content: center;
+    place-items: center;
+    justify-items: center;
+}
